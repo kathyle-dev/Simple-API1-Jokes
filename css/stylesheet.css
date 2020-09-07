@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  display: grid;
+  grid-auto-rows: 1fr 2fr;
+  justify-content: center;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 30px;
+}
+h1{
+  display: flex;
+  font-size: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  font-size: 1.5rem;
+  padding:0.5rem 1rem 0.5rem 1rem;
+  border-radius: 10px;
+  outline: none;
+}
+button:hover{
+  border: 3px solid crimson;
+}
+img{
+  display: none;
+}
+
+#reveal, #clear{
+  display: none;
+}
