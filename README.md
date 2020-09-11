@@ -1,7 +1,7 @@
 # Simple API: Joke GENERATOR
 #### Project Scope: The user presses a button to get the joke "set up". Another button will appear which when pressed, will reveal the punch line and a random joke GIPHY. The program fetches the JSON response from Official Joke API and I've added buttons to simulate a more human "joke telling" situation.
 Try it Here: https://modest-chandrasekhar-e64c15.netlify.app/
-![Simple Joke API Screenshot](/jokeAPI.png)
+![Simple Joke API Screenshot](/jokesAPI.png)
 
 # How it was made:
 #### HTML5, CSS3, Javascript, API, JSON
